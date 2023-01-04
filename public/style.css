@@ -1,0 +1,32 @@
+button{
+    text-align: center;
+    width: 120px; 
+    height: 40px; 
+    background-color: #FCB371;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+.article-card{
+    margin: 50px 30px;
+    background-color: #FCB371;
+    padding: 25px;
+}
+
+.site-container{
+    margin: 50px;
+}
+
+form{
+    margin-left: 36%;
+    width: 400px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
